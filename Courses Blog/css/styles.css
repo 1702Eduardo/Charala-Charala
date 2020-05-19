@@ -45,10 +45,9 @@ table {
 
 .title {
   background-color: #def4f0;
+  text-align: center;
   font-family: 'Sacramento', cursive;
-  left: 50px;
   margin-bottom: 0;
-  position: relative;
 }
 
 .mountain {
